@@ -1,6 +1,6 @@
 {
     "python.testing.pytestArgs": [
-        "missing_num"
+        "tests"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true
